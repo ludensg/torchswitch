@@ -31,6 +31,8 @@ Ideally the user would run `menu.py` to start the program, but since this hasn't
 
 Through the menu, the user will be prompted to select the parallelism mode and the number of nodes. The program will then execute the training using the selected parameters and evaluate the performance.
 
+Also consider the `requirements.txt` file for all of the dependencies.
+
 ## Future Enhancements and Work
 - Including more alternatives for model selection, varying in complexity.
 - Automating the process of running different training setups simultaneously for faster comparison.
